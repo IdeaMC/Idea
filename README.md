@@ -20,7 +20,7 @@
 
 ## 第二步，提交Issues
 > 请使用简体中文，排版整洁  
-[提交Issues传送门](https://github.com/IdeaMC/Idea/issues)
+[提交Issues传送门](https://github.com/IdeaMC/Idea/issues/new?assignees=suxiaolinya%2C+xiantiao233&labels=enhancement&projects=&template=%E5%8A%9F%E8%83%BD%E8%AF%B7%E6%B1%82.md&title=%5BIdea%5D+%E5%9C%A8%E8%BF%99%E9%87%8C%E9%A2%98%E5%86%99%E6%A0%87%E9%A2%98)
 
 ## 第三步，等待 
 > 如果我们正在进行这个项目 会给你回复  
