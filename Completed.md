@@ -6,5 +6,5 @@
 - 一个支持前后缀的Title插件
 `https://github.com/IdeaMC/TitlePlugin`
 
-玩家spawn管理器
+- 玩家spawn管理器
 `https://github.com/IdeaMC/SpawnManager`
