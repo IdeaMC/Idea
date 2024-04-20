@@ -1,4 +1,6 @@
 # Idea
+[加入交流群](https://qm.qq.com/q/6g0SrPNt5u)  
+[爱发电](https://afdian.net/a/rkzyo)  
 你有什么有创意的想法呢? 来这里提出吧!  
 短短的几句话 将你的想法变为现实  
 不收取任何费用 此项目完全公益  
@@ -26,3 +28,9 @@
 ## 第三步，等待 
 > 如果我们正在进行这个项目 会给你回复  
 > 如果我们无法进行 会将它关闭
+
+----
+工作人员  
+[<img src="https://q.qlogo.cn/g?b=qq&nk=3054587546&s=160" target="_blank" alt="img" style="border-radius: 50%; width: 100px; height: 100px;">](https://user.qzone.qq.com/3054587546/infocenter)
+[<img src="https://q.qlogo.cn/g?b=qq&nk=652479618&s=160" target="_blank" alt="img" style="border-radius: 50%; width: 100px; height: 100px;">](https://user.qzone.qq.com/652479618/infocenter)
+[<img src="https://q.qlogo.cn/g?b=qq&nk=1845985115&s=160" target="_blank" alt="img" style="border-radius: 50%; width: 100px; height: 100px;">](https://user.qzone.qq.com/1845985115/infocenter)
